@@ -1,2 +1,2 @@
 # primeiraaula
-Repositório para aula Git da DIO
+Repositório para aula módumo Git da DIO - Java
